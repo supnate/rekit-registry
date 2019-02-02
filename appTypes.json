@@ -1,6 +1,6 @@
 {
   "rekit-react": {
-    "repo": "supnate/rekit-boilerplate-cra#dist",
+    "repo": "supnate/rekit-boilerplate-react#master",
     "description": "Feature oriented SPA application with React, Redux and React Router."
   },
   "rekit-plugin": {
