@@ -1,13 +1,16 @@
 {
   "rekit-react": {
+    "name": "Rekit React",
     "repo": "supnate/rekit-boilerplate-react#master",
     "description": "Feature oriented SPA application with React, Redux and React Router."
   },
   "rekit-plugin": {
+    "name": "Rekit Plugin",
     "repo": "supnate/rekit-boilerplate-plugin#dist",
     "description": "A Rekit plugin project."
   },
   "cra": {
+    "name": "Create React App",
     "repo": "supnate/rekit-boilerplate-plugin#dist",
     "description": "Create React App project."
   }
